@@ -1,0 +1,57 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}
+
+.calculator{
+    height: 440px;
+    width: 300px;
+    margin: 10px;
+    margin-left: 500px;
+    margin-top: 80px;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+}
+
+div .displayInp .text{
+ background-color:white;
+ color: black;
+ margin:7px;
+ height:50px;
+ font-size:1.5rem;
+ width:280px;
+ border: none;
+ border-radius: 8px;
+ margin-top: 10px;
+ 
+  }
+
+
+  .button{
+    margin: 10px;
+    padding: 10px;
+    height: 50px;
+    width: 40px;
+    font-size:1rem;
+    border:none;
+    border-radius: 5px;
+    color: white;
+    background-color: red;
+    
+
+  }
+ div.buttons .buttonchange{
+    background-color: green;
+    height: 50px;
+    font-size: large;
+    color: white;
+    width: 110px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+div.buttons{
+    margin: 15px;  
+}
